@@ -1,6 +1,6 @@
-# Linux 命令
+# Linux 命令大全
 
- [![](https://github.com/hezhiqiang8909/linux-command/tree/c81cbc63b3beefcdeae7d8d9103f6e99dc0cbadc/template/img/banner.svg?sanitize=true)](https://jaywcjlove.github.io/linux-command)博客作者：联系请[点击](https://k8sadmin.info/lian-xi-zuo-zhe)，搬运不易，希望请作者喝咖啡，可以点击[联系博客作者](https://k8sadmin.info/lian-xi-zuo-zhe)
+####  [![](https://github.com/hezhiqiang8909/linux-command/tree/c81cbc63b3beefcdeae7d8d9103f6e99dc0cbadc/template/img/banner.svg?sanitize=true)](https://jaywcjlove.github.io/linux-command)博客作者：联系请[点击](https://k8sadmin.info/lian-xi-zuo-zhe)，搬运不易，希望请作者喝咖啡，可以点击[联系博客作者](https://k8sadmin.info/lian-xi-zuo-zhe)
 
 ## Linux Command
 

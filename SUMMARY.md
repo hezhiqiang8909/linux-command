@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Linux 命令](README.md)
+* [Linux 命令大全](README.md)
 * [命令](ming-ling/README.md)
   * [vgchange](ming-ling/vgchange.md)
   * [ack](ming-ling/ack.md)
