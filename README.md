@@ -213,7 +213,7 @@ yes
 
 ### 游戏玩家发行版
 
-_面向游戏玩家的八款最佳 Linux 发行版，本文由开源中国整理，_[_原文在这里_](https://my.oschina.net/editorial-story/blog/888795)。
+面向游戏玩家的八款最佳 Linux 发行版，本文由开源中国整理，[原文在这里](https://my.oschina.net/editorial-story/blog/888795)。
 
 * [SteamOS](http://store.steampowered.com/livingroom/SteamOS/) [官方文档](http://store.steampowered.com/steamos/buildyourown) [镜像下载](http://repo.steampowered.com/download/)
 * [Ubuntu GamePack](https://ualinux.com/en/ubuntu-gamepack) [下载地址](https://ualinux.com/en/ubuntu-gamepack)
