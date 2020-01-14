@@ -104,7 +104,7 @@ https://raw.githubusercontent.com/jaywcjlove/linux-command/master/command/<命�
 
 ## Linux命令分类
 
-_这里存放Linux 命令大全并不全，你可以通过_[_linux-command_](https://jaywcjlove.github.io/linux-command/)_来搜索，它是把_ [_command_](https://github.com/hezhiqiang8909/linux-command/tree/c81cbc63b3beefcdeae7d8d9103f6e99dc0cbadc/assets/command/README.md) _目录里面搜集的命令，生成了静态HTML并提供预览以及索引搜索。_
+这里存放Linux 命令大全并不全，你可以通过[linux-command](https://jaywcjlove.github.io/linux-command/)来搜索，它是把 [command](https://github.com/hezhiqiang8909/linux-command/tree/c81cbc63b3beefcdeae7d8d9103f6e99dc0cbadc/assets/command/README.md) 目录里面搜集的命令，生成了静态HTML并提供预览以及索引搜索。
 
 ### 文件传输
 
